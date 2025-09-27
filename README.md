@@ -3,3 +3,6 @@ EcoRobotics is an eco-friendly robotic system designed to autonomously collect w
 
 And
 We are Creative Corner. Creative Corner is our little space to dream, share, and build together. We’re a group of friends who believe that creativity grows best when everyone feels heard and inspired. In our corner, ideas don’t just stay on paper they turn into projects we’re proud of, moments we enjoy, and lessons we carry forward. It’s more than a team, it’s a family that supports, creates, and keeps pushing each other to do better.
+
+you can see our designs for this project through this link:
+https://drive.google.com/drive/folders/10KY-Hw0YbuX06QG55nbz_lrhNqjZhjF_?usp=sharing
